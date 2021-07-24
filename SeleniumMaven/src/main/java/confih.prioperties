@@ -1,4 +1,0 @@
-browser = chrome
-url = https://www.google.com
-I am learning selenium java
-System.out.println("supriya")
